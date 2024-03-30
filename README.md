@@ -45,7 +45,7 @@ cloeDeAlejo.sing()
 ```
 ## Class (or Struct), Blueprint analogy
 A blueprint allow workers to build multiple houses by using the same shapes, dimensions. e.g. my house, my brother's house, etc.<br>
-As an analogy a class "doggyClass" will allow coders to instantiate multiple objects of that class, e.g. myDog, brotherDog, etc.<br>
+As an analogy a class "DoggyClass" will allow coders to instantiate multiple objects of that class, e.g. myDog, brotherDog, etc.<br>
 ![class-blueprint-analogy](https://github.com/danielurra/Swift-UI-Functions-lesson/assets/51704179/6d3b723d-9000-40fd-bedd-fe826de9883c)
 
 
