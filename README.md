@@ -43,3 +43,9 @@ var cloeDeAlejo = classBirdBlueprint(name: "Cloe", age: 4)
 yellowTweety.sing()
 cloeDeAlejo.sing()
 ```
+## Class (or Struct), Blueprint analogy
+A blueprint allow workers to build multiple houses of the same type, shapes, dimensions, my house, my brother's house, etc.<br>
+Analogy a class allow coders to intantiate multiple objects, myDog, neighborDog, etc.<br>
+![class-blueprint-analogy](https://github.com/danielurra/Swift-UI-Functions-lesson/assets/51704179/6d3b723d-9000-40fd-bedd-fe826de9883c)
+
+
